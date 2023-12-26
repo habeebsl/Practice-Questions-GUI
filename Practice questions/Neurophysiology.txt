@@ -1,0 +1,100 @@
+What is neurophysiology?
+Describe the structure and function of a neuron.
+Explain the process of action potential generation.
+What is the resting membrane potential, and how is it maintained?
+Discuss the role of ion channels in neuronal excitability.
+Describe the phases of an action potential.
+Explain the concept of threshold in action potential initiation.
+What is saltatory conduction, and how does it occur in neurons?
+Discuss the importance of the myelin sheath in nerve conduction.
+Explain the process of synaptic transmission.
+Describe the structure and function of a synapse.
+Discuss the role of neurotransmitters in synaptic communication.
+What is reuptake, and how does it regulate neurotransmitter levels?
+Explain the difference between excitatory and inhibitory neurotransmitters.
+Describe the process of synaptic integration.
+What is the significance of the blood-brain barrier?
+Discuss the function of astrocytes in the nervous system.
+Explain the concept of synaptic plasticity.
+Describe the role of the NMDA receptor in long-term potentiation.
+Discuss the structure and function of the spinal cord.
+What are reflexes, and how do they occur in the spinal cord?
+Explain the concept of proprioception.
+Describe the structure and function of the brainstem.
+Discuss the role of the medulla oblongata in vital functions.
+What is the reticular activating system, and how does it regulate consciousness?
+Explain the functions of the pons in the brainstem.
+Describe the anatomy and function of the cerebellum.
+Discuss the role of the midbrain in sensory and motor functions.
+What is the substantia nigra, and how is it related to Parkinson's disease?
+Explain the functions of the thalamus in sensory processing.
+Describe the structure and function of the hypothalamus.
+Discuss the role of the limbic system in emotion and memory.
+What is the amygdala, and how does it contribute to emotional responses?
+Explain the functions of the hippocampus in memory formation.
+Describe the anatomy and function of the cerebral cortex.
+Discuss the different lobes of the cerebral cortex and their functions.
+What is the primary motor cortex, and how does it control voluntary movements?
+Explain the functions of the somatosensory cortex in sensory perception.
+Describe the role of the association areas in higher cognitive functions.
+Discuss the lateralization of brain function.
+What is the corpus callosum, and how does it facilitate communication between hemispheres?
+Explain the concept of neural plasticity.
+Describe the mechanisms of neurogenesis in the adult brain.
+Discuss the role of neurotransmitters in mood regulation.
+What is serotonin syndrome, and what are its symptoms?
+Explain the function of acetylcholine in the neuromuscular junction.
+Describe the process of neuromuscular transmission.
+Discuss the role of the autonomic nervous system in physiological regulation.
+What is the fight-or-flight response, and how is it mediated by the sympathetic nervous system?
+Explain the functions of the parasympathetic nervous system in rest and digestion.
+Describe the anatomy and function of the enteric nervous system.
+Discuss the role of dopamine in the reward system of the brain.
+What is the function of GABA (gamma-aminobutyric acid) in the central nervous system?
+Explain the concept of neural oscillations.
+Describe the role of glutamate as an excitatory neurotransmitter.
+Discuss the process of long-term depression in synaptic plasticity.
+What is the blood-cerebrospinal fluid barrier, and how does it differ from the blood-brain barrier?
+Explain the concept of neuroinflammation.
+Describe the function of oligodendrocytes in the central nervous system.
+Discuss the role of microglia in immune defense in the brain.
+What is the significance of the neuromuscular junction in muscle contraction?
+Explain the process of synaptic vesicle recycling.
+Describe the function of the vestibular system in balance and spatial orientation.
+Discuss the role of the pineal gland in circadian rhythms.
+What is the blood-retinal barrier, and how does it protect the eye?
+Explain the function of the optic nerve in vision.
+Describe the process of accommodation in the eye.
+Discuss the role of the cochlea in auditory processing.
+What is the function of the vestibulocochlear nerve in hearing and balance?
+Explain the mechanism of sound transduction in the ear.
+Describe the process of olfaction in the nasal cavity.
+Discuss the role of the olfactory nerve in the sense of smell.
+What is the gustatory system, and how does taste perception occur?
+Explain the functions of the trigeminal nerve in facial sensation.
+Describe the process of nociception and pain perception.
+Discuss the role of the endocrine system in neural regulation.
+What is the blood-brain barrier's role in protecting the brain from hormones?
+Explain the concept of neurohormones and their release.
+Describe the functions of the pituitary gland in hormone regulation.
+Discuss the role of the hypothalamus in controlling the endocrine system.
+What is the difference between afferent and efferent neurons?
+Explain the process of synaptic transmission in the autonomic nervous system.
+Describe the functions of the cerebrospinal fluid in the central nervous system.
+Discuss the concept of neurodegenerative diseases.
+What is the significance of myasthenia gravis in neuromuscular transmission?
+Explain the role of the blood-thymus barrier in immune function.
+Describe the process of synaptic pruning in neural development.
+Discuss the impact of neurotoxins on neural function.
+What is the role of the Mauthner cell in the startle reflex of fish?
+Explain the phenomenon of habituation in neural processing.
+Describe the process of neural crest cell migration and differentiation.
+Discuss the role of gap junctions in neuronal communication.
+What is the concept of parallel processing in neural networks?
+Explain the significance of the blood-testis barrier in reproductive physiology.
+Describe the process of neurogenesis in the embryonic nervous system.
+Discuss the impact of neurotransmitter imbalances on mental health.
+What is the significance of the neuromuscular spindle in muscle control?
+Explain the role of satellite cells in muscle regeneration.
+Describe the process of synaptic pruning in the developing brain.
+Discuss the impact of environmental factors on neural development.
