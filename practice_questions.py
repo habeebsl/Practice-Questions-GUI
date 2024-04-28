@@ -1,4 +1,5 @@
-import random, tkinter
+import tkinter
+import secrets
 
 courses = [
     'Respiratory Physiology',
@@ -16,7 +17,7 @@ courses = [
 def choose_question(course):
     with open(f"desktop/Practice questions/{course}.txt", "r") as file:  # Changed backslash to forward slash
         questions = file.readlines()
-        random_question = random.randint(0, len(questions)-1)
+        random_question = secrets.SystemRandom().randint(0, len(questions)-1)
         return f"{course} - {questions[random_question]}"
 
 def placeholder_remove(event):
@@ -52,7 +53,7 @@ def choose_option():
         button.bind("<Button-1>", lambda event: print_question(choose_question(random_course())))
 
 def random_course():
-    random_course = random.randint(0, len(courses)-1)
+    random_course = secrets.SystemRandom().randint(0, len(courses)-1)
     return courses[random_course]
 
 
